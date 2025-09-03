@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Primer backend"
 git branch -M main
-git remote add origin https://github.com/TU-USUARIO/cmms-backend.git
+git remote add origin https://github.com/cmms2026/cmms-backend.git
 git push -u origin main
