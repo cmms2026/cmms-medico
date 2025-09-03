@@ -1,4 +1,6 @@
+git init
 git add .
-git commit -m "Primer commit - CMMS Médico"
+git commit -m "Primer backend"
 git branch -M main
+git remote add origin https://github.com/TU-USUARIO/cmms-backend.git
 git push -u origin main
